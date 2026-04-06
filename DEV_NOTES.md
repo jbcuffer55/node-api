@@ -10,3 +10,7 @@ Personal development log — notes, findings, and ongoing work.
 - Investigated performance bottleneck, noted findings
 - Fixed minor edge case in input handling
 - Fixed off-by-one error in loop
+
+## 2026-04-06
+- Added inline documentation for core functions
+- Investigated performance bottleneck, noted findings
