@@ -18,3 +18,6 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-04-06
 - Added basic usage examples to README
 - Added basic retry logic for network requests
+
+## 2026-04-06
+- Cleaned up old debug logs
