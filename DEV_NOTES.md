@@ -25,3 +25,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-04-13
 - Reorganised test fixtures
 - Resolved TODO items from previous session
+
+## 2026-04-13
+- Drafted initial implementation plan for v2
+- Added .editorconfig for consistent formatting
