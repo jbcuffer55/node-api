@@ -29,3 +29,7 @@ Personal development log — notes, findings, and ongoing work.
 ## 2026-04-13
 - Drafted initial implementation plan for v2
 - Added .editorconfig for consistent formatting
+
+## 2026-04-13
+- Addressed feedback from self code review
+- Added basic usage examples to README
